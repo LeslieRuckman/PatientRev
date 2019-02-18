@@ -25,10 +25,10 @@ images/cursors/touch.png
 images/cursors/touch-active@2x.png
 images/cursors/touch-active.png
 design/images/qFpf3CYx9yLYai7hohA8cEs7Mo.png
+design/images/psdzjE40T1tSqJfXI5fZEtlpnk.png
 design/images/il0FfOkL002AANrcC9nwggiyr24.png
 design/images/iYDfZtPlHoNNZ3Uy59U3RbMVs.png
 design/images/dMASwxZo9Npv41NGdTee1dScWZg.png
-design/images/Yz0mCXskenxn0P5FZseOfjeh0.png
 design/images/WlsbC78ogpK8zG3jjHcPqWYm8.png
 design/images/WGJIutSgNMJHEfWGDgq1YQfQCw.png
 design/images/SD1VxYYkRizepw1xsbvhQV9ppU.png
