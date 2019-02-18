@@ -1,11 +1,11 @@
 Arguments: 
-  /Applications/Framer X.app/Contents/Resources/Node/bin/node /Applications/Framer X.app/Contents/Resources/Server/node_modules/yarn/lib/cli.js outdated --cwd /Users/leslieruckman/Library/Autosave Information/Framer-DF9059FE-C923-40DD-837F-AF460AD2A5BA/container --skip-integrity-check --cache-folder /Users/leslieruckman/Library/Caches/Framer/yarn/cache --mutex file:/Users/leslieruckman/Library/Caches/Framer/yarn/mutex --json
+  /Applications/Framer X.app/Contents/Resources/Node/bin/node /Applications/Framer X.app/Contents/Resources/Server/node_modules/yarn/lib/cli.js outdated --cwd /Users/leslieruckman/Library/Autosave Information/Framer-DF9059FE-C923-40DD-837F-AF460AD2A5BA/container --skip-integrity-check --cache-folder /Users/leslieruckman/Library/Caches/Framer/yarn/cache --mutex file:/Users/leslieruckman/Library/Caches/Framer/yarn/mutex --json --link-folder /Users/leslieruckman/Library/Application Support/Framer X/yarn-link-folder
 
 PATH: 
   /usr/bin:/bin:/usr/sbin:/sbin
 
 Yarn version: 
-  1.9.4
+  1.13.0
 
 Node version: 
   10.13.0
@@ -22,8 +22,7 @@ npm manifest:
   	"main": "build/index.js",
   	"license": "MIT",
   	"devDependencies": {
-  		"@types/react": "^16.4.16",
-  		"framer": "^0.10.1"
+  		"@types/react": "^16.4.16"
   	},
   	"peerDependencies": {
   		"framer": "^0.10.1",
@@ -36,7 +35,7 @@ npm manifest:
   	"author": "Leslie Ruckman",
   	"dependencies": {
   		"@framer/anubisvic_ofx.interactive-form-elements": "^1.1.0",
-  		"@framer/steveruizok.fontloader": "^1.0.0"
+  		"@framer/elle.simple-links": "^1.0.0"
   	}
   }
 
@@ -52,9 +51,10 @@ Lockfile:
     version "1.1.0"
     resolved "https://registry.framer.com/@framer/anubisvic_ofx.interactive-form-elements/-/@framer/anubisvic_ofx.interactive-form-elements-1.1.0.tgz#c063a4a92110ce1f6cd01406454bc15c8cead496"
   
-  "@framer/steveruizok.fontloader@^1.0.0":
+  "@framer/elle.simple-links@^1.0.0":
     version "1.0.0"
-    resolved "https://registry.framer.com/@framer/steveruizok.fontloader/-/@framer/steveruizok.fontloader-1.0.0.tgz#e915d238cdcb3866f67cf7be96abb13be89987e5"
+    resolved "https://registry.framer.com/@framer/elle.simple-links/-/@framer/elle.simple-links-1.0.0.tgz#40ac7ff6a16c90f6825640b83033c15475e29ccc"
+    integrity sha1-QKx/9qFskPaCVkC4MDPBVHXinMw=
   
   "@types/prop-types@*":
     version "15.5.6"
@@ -70,7 +70,3 @@ Lockfile:
   csstype@^2.2.0:
     version "2.5.5"
     resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.5.5.tgz#4125484a3d42189a863943f23b9e4b80fedfa106"
-  
-  framer@^0.10.1:
-    version "0.10.1"
-    resolved "https://registry.yarnpkg.com/framer/-/framer-0.10.1.tgz#c543e0435f12971dc9c3cfab79c6f1f316261b6f"

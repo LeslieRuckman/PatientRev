@@ -13,13 +13,20 @@ html {
 }
 body {
     margin: 0px;
-    font-family: Helvetica, Gotham, sans-serif;
     height: 100%;
     width: 100%;
     overflow: hidden;
     -webkit-overflow-scrolling: hidden;
     position: fixed;
-    background-color: #FFF4E7;
+}
+
+body,
+input,
+select,
+button {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+        "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 11px;
 }
 
 div,
