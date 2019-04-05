@@ -1,8 +1,8 @@
 Arguments: 
-  /Applications/Framer X.app/Contents/Resources/Node/bin/node /Applications/Framer X.app/Contents/Resources/Server/node_modules/yarn/lib/cli.js outdated --cwd /Users/leslieruckman/Library/Autosave Information/Framer-DF9059FE-C923-40DD-837F-AF460AD2A5BA/container --skip-integrity-check --cache-folder /Users/leslieruckman/Library/Caches/Framer/yarn/cache --mutex file:/Users/leslieruckman/Library/Caches/Framer/yarn/mutex --json --link-folder /Users/leslieruckman/Library/Application Support/Framer X/yarn-link-folder
+  /Applications/Framer X.app/Contents/Resources/Node/bin/node /Applications/Framer X.app/Contents/Resources/Server/node_modules/yarn/bin/yarn.js outdated --cwd /Users/leslieruckman/Library/Autosave Information/Framer-8D880BC0-06D4-415F-BAA5-0F4737D83A20/container --skip-integrity-check --cache-folder /Users/leslieruckman/Library/Caches/Framer/yarn/cache --mutex file:/Users/leslieruckman/Library/Caches/Framer/yarn/mutex --json --ignore-scripts --link-folder /Users/leslieruckman/Library/Application Support/Framer X/yarn-link-folder
 
 PATH: 
-  /usr/bin:/bin:/usr/sbin:/sbin
+  undefined
 
 Yarn version: 
   1.13.0
